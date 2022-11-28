@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn {
+    padding: 9px 22px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    border-color: aliceblue;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 3px 3px;
+    cursor: pointer;
+}
+
+.download h2 {
+    margin: 100px;
+    align-items: center;
+}
